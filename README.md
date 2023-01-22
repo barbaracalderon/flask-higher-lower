@@ -1,5 +1,6 @@
-# Flask: Guessing Game (Higher-Lower)
+_English. Português._
 
+# Flask: Guessing Game (Higher-Lower)
 
 A **very simple** guess-the-number game with Flask Python.
 
@@ -37,3 +38,41 @@ Keep guessing the number as suggested in "HINT".
 Try it yourself by changing the pictures or the content design.
 
 ![guess-the-number with Flask](img.png)
+
+---
+
+# Flask: jogo do adivinhar um número com Flask Python.
+
+O código aqui na verdade é mínimo mas o suficiente para captar a ideia da coisa.
+
+### Nota
+_Negócio é o seguinte: eu tava aprendendo Flask, coisas bem introdutórias mesmo, as tava fazendo anotações sobre 
+isso. Eu faço essas coisas para poder voltar no futuro, caso eu precise refrescar a memória por algum motivo. Esse 
+jogo é extremamente simples e foi um exercício nesse bootcamp que eu me propus a fazer - um exercício pra dar uma 
+fixada no conteúdo. Então tá aqui. O curso é o Dr. Angela Yu's Python Bootcamp e [as minhas notas de Python] estão 
+aqui também. 
+
+## Considerações
+
+O ponto aqui é sobre:
+
+1. Aprender o que é Flask
+2. Como trabalhar com roteamento de variáveis
+3. Como fazer debug=True
+4. Como inserir tags HTML com Python
+5. Completar o exercício
+
+O ponto aqui não é sobre:
+
+1. Um trabalho lindão de HTML
+2. UX/UI
+3. Uma aplicação real para ir para a web viver no mundo
+
+## Roda o arquivo `server.py`
+
+E você deve ver a entrada.
+
+Continue adivinhando o jogo assim como descrito no campo "HINT" conforme imagem ilustrativa. O campo HINT na verdade 
+diz o seguinte: "digite o número da sua escolha nessa URL, colocando depois da barra /seu_numero"
+
+Tente por si mesmo e troque as imagens do jogo ou o design da tela.
