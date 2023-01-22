@@ -1,4 +1,4 @@
-# EN: Flask: Guessing Game (Higher-Lower)
+# Flask: Guessing Game (Higher-Lower)
 
 
 A **very simple** guess-the-number game with Flask Python.
