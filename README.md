@@ -49,8 +49,7 @@ O código aqui na verdade é mínimo mas o suficiente para captar a ideia da coi
 _Negócio é o seguinte: eu tava aprendendo Flask, coisas bem introdutórias mesmo, as tava fazendo anotações sobre 
 isso. Eu faço essas coisas para poder voltar no futuro, caso eu precise refrescar a memória por algum motivo. Esse 
 jogo é extremamente simples e foi um exercício nesse bootcamp que eu me propus a fazer - um exercício pra dar uma 
-fixada no conteúdo. Então tá aqui. O curso é o Dr. Angela Yu's Python Bootcamp e [as minhas notas de Python] estão 
-aqui também. 
+fixada no conteúdo. Então tá aqui. O curso é o Dr. Angela Yu's Python Bootcamp e [as minhas notas de Python](https://github.com/barbaracalderon/notes-on-python/blob/main/05_FLASK.md) estão aqui também. 
 
 ## Considerações
 
